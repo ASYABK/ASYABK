@@ -23,3 +23,22 @@ ____
 |4)	Cohort analysis, unity economics, product metrics|	Python Pandas Matplotlib Seaborn|
 |5) A/B testing, statistical hypothesis testing, event analytics, product metrics, data visualization|Python Pandas Matplotlib SciPy Seaborn Plotly|
 |6)	Product metrics for creating dashboards|	Python PostgreSQL Tableau|
+
+
+## A little more about me
+  
+### Education
+  
+- 🎓 **Analyst** 
+- 📆 2018 - 2022
+- 📍 **Chuvash State University**
+ 
+ ### Courses
+
+- 🎓 **Analyst**
+- 📆 Sep.2021 - now
+- 📍 **Software company, Cheboksary**
+
+# Stay in touch
+
+📜 [hh.ru](https://cheboksary.hh.ru/applicant/resumes/view?resume=aebfdfa8ff0c96ebc70039ed1f496a55374e4c&customDomain=1)
