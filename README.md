@@ -5,15 +5,15 @@ I'm Junior Data Analyst.
 I like to look for dependencies in the data and find them, as well as draw conclusions based on the data obtained.
 Now I'm looking for a job, so I hope my projects will be interesting for you.
 
-## A little more about me
+### A little more about me
   
-### Education
+#### Education
   
 - 🎓 **Analyst** 
 - 📆 2018 - 2022
 - 📍 **Chuvash State University**
  
- ### Courses
+ #### Courses
 
 - 🎓 **Analyst**
 - 📆 Sep.2021 - now
