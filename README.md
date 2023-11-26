@@ -31,12 +31,15 @@ ____
   
 |Tasks | Skills |
 |--------------|----------------------|
-|1)	Data preprocessing, exploratory data analysis, data visualization|Python Pandas NumPy Matplotlib|
-|2) Statistical hypothesis testing, descriptive statistics	|Python Pandas Matplotlib NumPy SciPy|
-|3)	Execution of sql queries, data analysis	|SQL PostgreSQL|
-|4)	Cohort analysis, unity economics, product metrics|	Python Pandas Matplotlib Seaborn|
-|5) A/B testing, statistical hypothesis testing, event analytics, product metrics, data visualization|Python Pandas Matplotlib SciPy Seaborn Plotly|
-|6)	Product metrics for creating dashboards|	Python PostgreSQL Tableau|
+|1)	Data preprocessing, exploratory data analysis, data visualization|`Python` `Pandas` `NumPy` `Matplotlib`|
+|2) Statistical hypothesis testing, descriptive statistics	|`Python` `Pandas` `Matplotlib` `NumPy` `SciPy`|
+|3)	Execution of sql queries, data analysis	|`SQL` `PostgreSQL`|
+|4)	Cohort analysis, unity economics, product metrics|	`Python` `Pandas` `Matplotlib` `Seaborn`|
+|5) A/B testing, statistical hypothesis testing, event analytics, product metrics, data visualization|`Python` `Pandas` `Matplotlib` `SciPy` `Seaborn` `Plotly`|
+|6)	Product metrics for creating dashboards|	`Python` `PostgreSQL` `Tableau`|
+
+
+[More in the repository `projects`](https://github.com/ASYABK/projects)
 
 # Stay in touch
 
