@@ -4,6 +4,20 @@ I'm Junior Data Analyst.
 
 I like to look for dependencies in the data and find them, as well as draw conclusions based on the data obtained.
 Now I'm looking for a job, so I hope my projects will be interesting for you.
+
+## A little more about me
+  
+### Education
+  
+- 🎓 **Analyst** 
+- 📆 2018 - 2022
+- 📍 **Chuvash State University**
+ 
+ ### Courses
+
+- 🎓 **Analyst**
+- 📆 Sep.2021 - now
+- 📍 **Software company, Cheboksary**
 ____
 
 ## Skills
@@ -23,21 +37,6 @@ ____
 |4)	Cohort analysis, unity economics, product metrics|	Python Pandas Matplotlib Seaborn|
 |5) A/B testing, statistical hypothesis testing, event analytics, product metrics, data visualization|Python Pandas Matplotlib SciPy Seaborn Plotly|
 |6)	Product metrics for creating dashboards|	Python PostgreSQL Tableau|
-
-
-## A little more about me
-  
-### Education
-  
-- 🎓 **Analyst** 
-- 📆 2018 - 2022
-- 📍 **Chuvash State University**
- 
- ### Courses
-
-- 🎓 **Analyst**
-- 📆 Sep.2021 - now
-- 📍 **Software company, Cheboksary**
 
 # Stay in touch
 
